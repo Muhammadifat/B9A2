@@ -4,7 +4,7 @@
 *{
     font-family: 'Mulish', sans-serif;
 }
-/* header section */
+/* header section start */
 header{
     display: flex;
     align-items: center;
@@ -45,7 +45,8 @@ nav li{
 nav span{
     display: none;
 }
-
+/* header section end */
+/* main section start  */
 main{
     padding: 20px 100px;
     display: flex;
@@ -325,7 +326,7 @@ margin-right: -260px;
 /* main section end  */
 
 
-/* footer section */
+/* footer section start */
 footer{
     height: 400px;
     width: 100%;
@@ -341,6 +342,7 @@ footer hr{
     width: 70%;
     margin: 20px 0px;
 }
+/* footer section end  */
 
 
 
