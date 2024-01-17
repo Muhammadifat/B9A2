@@ -230,17 +230,19 @@ button {
 
 }
 
-/* chose your dest section */
+/* choose your dest section */
 .chous-box {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 20px;
     height: 290px;
+    width: 100%;
 }
 
 .chous-box img {
-    height: 96%;
+     height: 100%;
+     width: 100%;
 }
 
 .box-middle img {
